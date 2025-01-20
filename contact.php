@@ -27,7 +27,7 @@
         .col-md-4 {
             flex: 1 1 300px; 
             max-width: calc(33.333% - 20px);
-            margin: 0; /* Remove default margins */
+            margin: 0; 
         }
 
         .card {
@@ -70,7 +70,6 @@
             }
         }
 
-        /* Add these new styles after existing styles */
         .about-container {
             padding: 80px 0;
             background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
