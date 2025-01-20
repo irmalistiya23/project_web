@@ -25,8 +25,8 @@
         }
 
         .col-md-4 {
-            flex: 1 1 300px; /* Base width of 300px, but allows growth and shrinking */
-            max-width: calc(33.333% - 20px); /* Maintain 3 columns with gap consideration */
+            flex: 1 1 300px; 
+            max-width: calc(33.333% - 20px);
             margin: 0; /* Remove default margins */
         }
 
